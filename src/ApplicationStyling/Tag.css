@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: "Hanken Grotesk", sans-serif;
+  background-color: #f8fafb;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  margin: 0;
+  padding: 0;
+}
+p {
+  margin: 0;
+  padding: 0;
+}
+i {
+}
+span {
+}
+a {
+}
+button {
+}
+div {
+}
+main {
+  position: relative;
+  width: 100%;
+  margin-left: 300px;
+  padding: 40px 0px;
+}
+section {
+}
+@media (max-width: 1000px) {
+  main {
+    margin-left: 0px;
+  }
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #6dc8c23b;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #6dc8c264;
+}

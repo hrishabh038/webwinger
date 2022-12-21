@@ -1,0 +1,50 @@
+.hollow-clicker {
+  text-decoration: none;
+}
+.hollow-clicker button {
+  border: 1px solid #e0e6e7;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 8px 16px;
+  cursor: pointer;
+  background-color: white;
+  border-radius: 5px;
+  color: #6dc8c2;
+}
+.hollow-clicker button:hover {
+  background-color: #6dc8c23b;
+  color: #6dc8c2;
+}
+.hollow-clicker button div {
+  display: flex;
+  align-items: center;
+}
+.hollow-clicker button div i {
+  font-size: 24px;
+  margin-right: 6px;
+}
+.hollow-clicker button div span {
+  font-size: 16px;
+}
+.hollow-clicker button i {
+  font-size: 18px;
+  color: #6dc8c2;
+}
+.hollow-clicker-notification-dot {
+  position: absolute;
+  background-color: red;
+  color: white;
+  border-radius: 1000px;
+  font-size: 11px;
+  min-width: 23px;
+  min-height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  right: 11px;
+}
+.hollow-clicker-notification-dot a {
+}

@@ -1,0 +1,24 @@
+.container {
+  border: 1px solid #e0e6e7;
+  background-color: white;
+  margin: auto;
+  border-radius: 5px;
+}
+.container-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #e0e6e7;
+  color: #b7b5b5;
+}
+.container-heading span {
+  font-size: 23px;
+  font-weight: 600;
+}
+.container-heading i {
+    font-size: 20px;
+}
+.container-content {
+  padding: 10px;
+}

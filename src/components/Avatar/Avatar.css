@@ -1,0 +1,23 @@
+.avatar {
+  padding: 4px;
+  padding-right: 11px;
+  border-radius: 1000px;
+  display: flex;
+  align-items: center;
+  background-color: #6dc8c23b;
+  color: #6dc8c2;
+  cursor: pointer;
+}
+.avatar:hover {
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.avatar img {
+  width: 32px;
+  border-radius: 1000px;
+  margin-right: 8px;
+}
+.avatar span {
+  font-style: oblique;
+  font-weight: bold;
+}

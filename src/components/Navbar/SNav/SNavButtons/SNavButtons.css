@@ -1,0 +1,31 @@
+.snav-buttons {
+  margin: 20px 0px;
+  border: 1px solid #e0e6e7;
+  border-radius: 5px;
+}
+.snav-buttons-heading {
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 11px;
+  font-weight: bold;
+  font-family: "Lato", sans-serif;
+  color: #B5B5B5;
+  transition: 0.3s;
+}
+.snav-buttons-heading:hover {
+  background-color: #6dc8c2;
+  color: white;
+}
+.snav-buttons-heading span {
+}
+.snav-buttons-heading i {
+  transition: 1s;
+  font-size: 20px;
+}
+.snav-button-container {
+  /* display: none; */
+  padding: 7px 0px;
+}

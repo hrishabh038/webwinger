@@ -1,0 +1,50 @@
+.snav-clicker {
+  text-decoration: none;
+}
+.snav-clicker button {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 8px 11px;
+  border: 0px;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.snav-clicker button:hover {
+  border-left: 6px solid #6dc8c2;
+  background-color: #6dc8c23b;
+  color: #6dc8c2;
+}
+.snav-clicker button div {
+  display: flex;
+  align-items: center;
+}
+.snav-clicker button div i {
+  font-size: 24px;
+  margin-right: 6px;
+}
+.snav-clicker button div span {
+  font-size: 16px;
+}
+.snav-clicker button i {
+  font-size: 18px;
+  color: #6dc8c2;
+}
+.snav-clicker-notification-dot {
+  position: absolute;
+  background-color: red;
+  color: white;
+  border-radius: 1000px;
+  font-size: 11px;
+  min-width: 23px;
+  min-height: 23px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  right: 11px;
+}
+.snav-clicker-notification-dot a {
+}

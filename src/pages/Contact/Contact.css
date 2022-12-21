@@ -1,0 +1,18 @@
+.contact-form-container {
+  width: 500px;
+  margin: auto;
+}
+.contact-form {
+}
+.contact-form form {
+}
+.contact-form-services {
+  display: flex;
+  overflow: auto;
+  padding-bottom: 20px;
+}
+@media (max-width: 530px) {
+  .contact-form-container {
+    width: 100%;
+  }
+}

@@ -1,0 +1,22 @@
+.app {
+  overflow: auto;
+}
+.app-sections {
+  position: relative;
+  margin-top: 64px;
+  display: flex;
+  align-items: flex-start;
+  z-index: 1;
+}
+.app-section-banner {
+  width: 100%;
+  height: 250px;
+  background-color: #6dc8c23b;
+  position: absolute;
+  top: 0;
+  z-index: -9999999;
+  background-image: url("https://i.postimg.cc/9MWxR110/Screenshot-29.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
