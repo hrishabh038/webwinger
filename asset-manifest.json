@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/webwinger/static/css/main.81714ba2.css",
+    "main.js": "/webwinger/static/js/main.c56e097a.js",
+    "static/media/4.png": "/webwinger/static/media/4.02d7621783e06f5976d2.png",
+    "static/media/deployment.png": "/webwinger/static/media/deployment.8777c3083f230ee62d30.png",
+    "static/media/frontend.png": "/webwinger/static/media/frontend.7ecd0a82d8a0c94ae73b.png",
+    "static/media/fullstack.png": "/webwinger/static/media/fullstack.5d0616b5784b4287d10c.png",
+    "static/media/5.png": "/webwinger/static/media/5.b49a0ae21150f0c09486.png",
+    "static/media/backend.png": "/webwinger/static/media/backend.bb2414e41e43ae15410c.png",
+    "index.html": "/webwinger/index.html",
+    "main.81714ba2.css.map": "/webwinger/static/css/main.81714ba2.css.map",
+    "main.c56e097a.js.map": "/webwinger/static/js/main.c56e097a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81714ba2.css",
+    "static/js/main.c56e097a.js"
+  ]
+}
